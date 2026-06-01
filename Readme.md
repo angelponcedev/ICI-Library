@@ -15,7 +15,19 @@ Este repositorio contiene cursos y recursos de utilidad para distintos paths de 
    > ### Database Admin
 
 ## 2.- Recursos
-    Espacio futuro para repos destacados y recomendados para distintas tecnologias
+|Repositorio|Descripcion|Tecnologia|Link|
+|WebWright|Playwright para agentes de IA|Python|[WebWright]https://github.com/microsoft/Webwright|
+|Agent Lightning|Reinforcement Learning para agentes |Python|[Agent Lighting]https://github.com/microsoft/agent-lightning|
+|LLM Wiki|Red de documentacion interna para uso de LLM's|Sin tecnologia|[LLM Wiki]https://medium.com/@urvvil08/andrej-karpathys-llm-wiki-create-your-own-knowledge-base-8779014accd5|
+|Pdf Inspector|Pdf parsing a markdown|Python NodeJS|[Pdf Inspector] https://github.com/firecrawl/pdf-inspector|
+|Turbo Quant|Compresion de KV cache para LLMs locales|C++|[TurboQuant] https://github.com/AmesianX/TurboQuant|
+|MTP multi token prediction| Metodo para GEMMA 4 para acelerar la inferencia de tokens|Python|[MTP]https://blog-google.translate.goog/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc|
+|Scrapper Endpoint|Servicio de cloudflare para scrappear|Sin tecnologia|[CLoudfalre Docs]https://blog-google.translate.goog/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc|
+
+## 2.1.- Papers & articles
+|Tema|Descripcion|Link|
+|Tiny Recursive Models| Arquitectura de LLM's con pocos párametros recursiva. La idea es competir con LLM's más grandes mediante el uso de "varias pasadas de razonamiento en las mismas redes"|[Tiny recursive LLM's']https://mail.bycloud.ai/p/less-is-more-recursive-reasoning-with-tiny-networks|
+
 
 ## 3.- Job Hunt / Internships
 
