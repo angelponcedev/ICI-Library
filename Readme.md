@@ -1,37 +1,50 @@
 # ICI Library
 
-Este repositorio contiene cursos y recursos de utilidad para distintos paths de especializacion (en trabajo)
-
-## 1.- Cursos
-
-   > ### Data Science
-   > ### AI Enginner
-   > ### Frontend
-   > ### Backend
-   > ### Mobile
-   > ### Desktop
-   > ### Embedded
-   > ### DevOps - Cloud
-   > ### Database Admin
-
-## 2.- Recursos
-|Repositorio|Descripcion|Tecnologia|Link|
-|WebWright|Playwright para agentes de IA|Python|[WebWright]https://github.com/microsoft/Webwright|
-|Agent Lightning|Reinforcement Learning para agentes |Python|[Agent Lighting]https://github.com/microsoft/agent-lightning|
-|LLM Wiki|Red de documentacion interna para uso de LLM's|Sin tecnologia|[LLM Wiki]https://medium.com/@urvvil08/andrej-karpathys-llm-wiki-create-your-own-knowledge-base-8779014accd5|
-|Pdf Inspector|Pdf parsing a markdown|Python NodeJS|[Pdf Inspector] https://github.com/firecrawl/pdf-inspector|
-|Turbo Quant|Compresion de KV cache para LLMs locales|C++|[TurboQuant] https://github.com/AmesianX/TurboQuant|
-|MTP multi token prediction| Metodo para GEMMA 4 para acelerar la inferencia de tokens|Python|[MTP]https://blog-google.translate.goog/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc|
-|Scrapper Endpoint|Servicio de cloudflare para scrappear|Sin tecnologia|[CLoudfalre Docs]https://blog-google.translate.goog/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc|
-
-## 2.1.- Papers & articles
-|Tema|Descripcion|Link|
-|Tiny Recursive Models| Arquitectura de LLM's con pocos párametros recursiva. La idea es competir con LLM's más grandes mediante el uso de "varias pasadas de razonamiento en las mismas redes"|[Tiny recursive LLM's']https://mail.bycloud.ai/p/less-is-more-recursive-reasoning-with-tiny-networks|
-
-
-## 3.- Job Hunt / Internships
+Este repositorio contiene cursos y recursos de utilidad para distintos paths de especialización (en trabajo).
 
 ---
+
+## 1. Cursos
+
+> ### [Inglés](https://www.freecodecamp.org/learn/a2-english-for-developers/)
+
+> ### Data Science
+> ### AI Engineer
+> ### Frontend
+> ### Backend
+> ### Mobile
+> ### Desktop
+> ### Embedded
+> ### DevOps / Cloud
+> ### Database Admin
+> ### Video Juegos
+
+---
+
+## 2. Recursos
+
+| Repositorio | Descripción | Tecnología | Link |
+|---|---|---|---|
+| WebWright | Playwright para agentes de IA | Python | [GitHub](https://github.com/microsoft/Webwright) |
+| Agent Lightning | Reinforcement Learning para agentes | Python | [GitHub](https://github.com/microsoft/agent-lightning) |
+| LLM Wiki | Red de documentación interna para uso de LLMs | Sin tecnología | [Medium](https://medium.com/@urvvil08/andrej-karpathys-llm-wiki-create-your-own-knowledge-base-8779014accd5) |
+| Pdf Inspector | PDF parsing a Markdown | Python, Node.js | [GitHub](https://github.com/firecrawl/pdf-inspector) |
+| TurboQuant | Compresión de KV cache para LLMs locales | C++ | [GitHub](https://github.com/AmesianX/TurboQuant) |
+| MTP Multi Token Prediction | Método para Gemma 4 para acelerar la inferencia de tokens | Python | [Blog](https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/) |
+| Scraper Endpoint | Servicio de Cloudflare para scraping | Sin tecnología | [Cloudflare Docs](https://developers.cloudflare.com/browser-rendering/) |
+
+---
+
+## 2.1. Papers y artículos
+
+| Tema | Descripción | Link |
+|---|---|---|
+| Tiny Recursive Models | Arquitectura de LLMs con pocos parámetros recursiva. La idea es competir con LLMs más grandes mediante "varias pasadas de razonamiento en las mismas redes" | [bycloud.ai](https://mail.bycloud.ai/p/less-is-more-recursive-reasoning-with-tiny-networks) |
+| Nuevas políticas de SEO | Search Engine Optimization y Generative Engine Optimization por parte de Google | [Google Developers](https://developers.google.com/search/docs/fundamentals/ai-optimization-guide) |
+
+---
+
+## 3. Job Hunt / Internships
 
 ### Empresas locales (Aguascalientes)
 
@@ -64,13 +77,13 @@ Este repositorio contiene cursos y recursos de utilidad para distintos paths de 
 | Empresa | Programa | Link |
 |---|---|---|
 | Google | Internships (SWE, PM, etc.) | [careers.google.com](https://www.google.com/about/careers/applications/buildyourfuture/internships) |
-| Amazon | SDE Internship CDMX | [amazon.jobs/internships-for-students](https://www.amazon.jobs/en/teams/internships-for-students) |
+| Amazon | SDE Internship CDMX | [amazon.jobs](https://www.amazon.jobs/en/teams/internships-for-students) |
 | Microsoft | Explore Program (1er/2do año) · SWE Intern MX | [careers.microsoft.com/students](https://careers.microsoft.com/students/) · [Explore Program](https://careers.microsoft.com/v2/global/en/exploremicrosoft) |
-| Oracle | GenO (pasantías LAD) | [oracle.com/latam/careers/generation-oracle](https://www.oracle.com/latam/careers/generation-oracle/) · Inscripciones ~mayo cada año |
+| Oracle | GenO (pasantías LAD) | [oracle.com/latam](https://www.oracle.com/latam/careers/generation-oracle/) · Inscripciones ~mayo cada año |
 | Micron | SWE internships GDL | [micron.eightfold.ai/careers](https://micron.eightfold.ai/careers) |
 | IBM | Blue Journey (Internship MX) | [ibm.com/careers/internships](https://www.ibm.com/careers/internships) · Buscar "Mexico" en el portal |
-| Capital One CDMX | TDP Associate (egresados) | [capitalonecareers.com · TDP](https://www.capitalonecareers.com/start-a-tech-career-with-capital-one-mexicos-tdp-students-tech-int) |
-| BBVA México | Becarios y Trainees CDMX | [grupociadetalentos.com/talentojoven-bbva](https://grupociadetalentos.com/talentojoven-bbva/) · Inscripciones por temporadas |
+| Capital One CDMX | TDP Associate (egresados) | [capitalonecareers.com](https://www.capitalonecareers.com/start-a-tech-career-with-capital-one-mexicos-tdp-students-tech-int) |
+| BBVA México | Becarios y Trainees CDMX | [grupociadetalentos.com](https://grupociadetalentos.com/talentojoven-bbva/) · Inscripciones por temporadas |
 
 > **Nota:** Las convocatorias de Big Tech suelen abrir entre agosto y diciembre para posiciones de verano. Oracle GenO e IBM Blue Journey abren ~mayo para el segundo semestre. Revisa los portales periódicamente.
 
@@ -86,7 +99,7 @@ Este repositorio contiene cursos y recursos de utilidad para distintos paths de 
 - [Jobrapido MX](https://mx.jobrapido.com)
 - [OCC Mundial](https://www.occ.com.mx)
 
-**Freelance (perfil senior/staff recomendado para estos)**
+**Freelance** (perfil senior/staff recomendado para estos)
 - [Upwork](https://www.upwork.com)
 - [Arc.dev](https://arc.dev)
 
