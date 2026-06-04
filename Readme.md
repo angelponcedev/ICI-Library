@@ -25,6 +25,7 @@ Este repositorio contiene cursos y recursos de utilidad para distintos paths de 
 
 | Repositorio | Descripción | Tecnología | Link |
 |---|---|---|---|
+| Floci | Simulador de AWS,AZURE,Google Cloud | Contenedores de Docker | [Github](https://github.com/floci-io) |
 | WebWright | Playwright para agentes de IA | Python | [GitHub](https://github.com/microsoft/Webwright) |
 | Agent Lightning | Reinforcement Learning para agentes | Python | [GitHub](https://github.com/microsoft/agent-lightning) |
 | LLM Wiki | Red de documentación interna para uso de LLMs | Sin tecnología | [Medium](https://medium.com/@urvvil08/andrej-karpathys-llm-wiki-create-your-own-knowledge-base-8779014accd5) |
