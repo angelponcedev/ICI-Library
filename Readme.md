@@ -65,20 +65,20 @@ Este repositorio contiene cursos y recursos de utilidad para distintos paths de 
 
 Rutas sugeridas por especialización. Donde aplica, se enlaza directo a un curso o plataforma relevante de la sección 1.
 
-| Path                   | Recurso sugerido                                                                                                                           |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Inglés                 | [FreeCodeCamp: English for Developers](https://www.freecodecamp.org/learn/a2-english-for-developers/)                                      |
-| Data Science           | [Kaggle Learn](https://www.kaggle.com/learn), [Cognitive Class](https://cognitiveclass.ai/)                                                |
-| AI Engineer            | [Fast.ai](https://course.fast.ai/), [Hugging Face](https://huggingface.co/learn), [Claude resources](https://claude.com/resources/courses) |
-| Cloud / Amazon Bedrock | [Amazon Bedrock Essentials](https://www.classcentral.com/course/amazon-bedrock-getting-started-264653)                                     |
-| Frontend               | _pendiente_                                                                                                                                |
-| Backend                | _pendiente_                                                                                                                                |
-| Mobile                 | _pendiente_                                                                                                                                |
-| Desktop                | _pendiente_                                                                                                                                |
-| Embedded               | _pendiente_                                                                                                                                |
-| DevOps / Cloud         | [Linux Foundation](https://training.linuxfoundation.org/free-courses/), [Networking Academy](https://www.netacad.com/)                     |
-| Database Admin         | _pendiente_                                                                                                                                |
-| Video Juegos           | _pendiente_                                                                                                                                |
+| Path                   | Recurso sugerido                                                                                                                                                                                                                    |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Inglés                 | [FreeCodeCamp: English for Developers](https://www.freecodecamp.org/learn/a2-english-for-developers/)                                                                                                                               |
+| Data Science           | [Kaggle Learn](https://www.kaggle.com/learn), [Cognitive Class](https://cognitiveclass.ai/)                                                                                                                                         |
+| AI Engineer            | [Fast.ai](https://course.fast.ai/), [Hugging Face](https://huggingface.co/learn), [Claude resources](https://claude.com/resources/courses), [AI Engineer from scratch](https://github.com/rohitg00/ai-engineering-from-scratch.git) |
+| Cloud / Amazon Bedrock | [Amazon Bedrock Essentials](https://www.classcentral.com/course/amazon-bedrock-getting-started-264653)                                                                                                                              |
+| Frontend               | _pendiente_                                                                                                                                                                                                                         |
+| Backend                | _pendiente_                                                                                                                                                                                                                         |
+| Mobile                 | _pendiente_                                                                                                                                                                                                                         |
+| Desktop                | _pendiente_                                                                                                                                                                                                                         |
+| Embedded               | _pendiente_                                                                                                                                                                                                                         |
+| DevOps / Cloud         | [Linux Foundation](https://training.linuxfoundation.org/free-courses/), [Networking Academy](https://www.netacad.com/)                                                                                                              |
+| Database Admin         | _pendiente_                                                                                                                                                                                                                         |
+| Video Juegos           | _pendiente_                                                                                                                                                                                                                         |
 
 Para rutas marcadas como _pendiente_, [Roadmap.sh](https://roadmap.sh/) ofrece una guía visual paso a paso con recursos por tecnología.
 
