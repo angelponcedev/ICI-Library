@@ -33,6 +33,7 @@ Compendio de recursos gratuitos para estudiantes: plataformas de aprendizaje, re
 - **[Claude](https://claude.com/resources/courses)**: Recursos y guías proporcionadas por Anthropic.
 - **[Fast.ai](https://course.fast.ai/)**: Curso práctico de Deep Learning, basado en su libro disponible gratis en línea.
 - **[AMD AI Academy](https://developer.amd.com/)**: Recursos para el desarrollo de IA con tecnologías de AMD.
+- **[Santander AI resources](https://github.com/SantanderAI)**: Recursos open source de Santander para aplicar IA a deteccion de Fraude y actividades fiancieras
 
 ### Redes, Infraestructura y Sistemas
 
@@ -102,7 +103,10 @@ Rutas sugeridas por especialización. Donde aplica, se enlaza directamente a un 
 | **TrainLLM**         | Repositorio enfocado en crear LLMs utilizando hardware de consumo.     | PyTorch              | [GitHub](https://github.com/FareedKhan-dev/train-llm-from-scratch)                                           |
 | **AI Engineering**   | Todo lo que necesitas para adentrarte en el mundo de Machine Learning. | Python, Rust         | [GitHub](https://github.com/rohitg00/ai-engineering-from-scratch)                                            |
 | **OpenWA**           | API de Whatsapp auto alojada (self hosted).                            | TypeScript           | [GitHub](https://github.com/rmyndharis/OpenWA)                                                               |
-| **Docker Android**   | Imagen de Android con emulador diseñado para correr en Docker.         | Shell                | [GitHub](https://github.com/HQarroum/docker-android)                                                         |
+| **Android en Docker**| Imagen de Android con emulador diseñado para correr en Docker.         | Shell                | [GitHub](https://github.com/HQarroum/docker-android)                                                         |
+| **OCR sin chunking** | Modelo OSS para transcribir PDFs en un solo paso "sin chunking"        | Python               | [GitHub](https://github.com/baidu/Unlimited-OCR/tree/main)                                                   |
+| **Agentes de IA mediante interfaz** | Desarrolla agentes de IA mediante una interfaz          | TS,JS                | [GitHub](https://github.com/firecrawl/open-agent-builder)                                                    |
+| **RAG mediante imagenes** | Mejora la habilidad de Recall de modelos de IA y compresion de interfaces mediante RAG por imagenes     | Python                | [GitHub](https://github.com/StarTrail-org/PixelRAG)                                                    |
 
 ---
 
