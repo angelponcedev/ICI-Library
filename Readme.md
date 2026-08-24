@@ -24,6 +24,7 @@ Compendio de recursos gratuitos para estudiantes: plataformas de aprendizaje, re
 - **[MIT OpenCourseWare](https://ocw.mit.edu/)**: Material completo de cursos de MIT, sin registro y descargable.
 - **[Roadmap.sh](https://roadmap.sh/)**: Rutas de aprendizaje visuales por rol o tecnología (Frontend, Backend, DevOps, AI, etc).
 - **[Exercism](https://exercism.org/)**: Práctica de programación con mentoría humana en más de 80 lenguajes.
+- **[AWS Educate](https://aws.amazon.com/es/education/awseducate/)**: Plataforma oficial para aprender los servicios Cloud de AWS.
 
 ### Inteligencia Artificial y Data Science
 
